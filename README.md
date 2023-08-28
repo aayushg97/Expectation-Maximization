@@ -1,2 +1,3 @@
-# Expectation-Maximization-Noisy-OR
+# Expectation-Maximization
+
 Expectation Maximization algorithm for Noisy-OR
